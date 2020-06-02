@@ -1,18 +1,26 @@
 [
   {
-    "order": "first",
-    "letter" : "a"    
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
   },
   {
-    "order": "second",
-    "letter" : "b"    
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
   },
   {
-    "order": "third",
-    "letter" : "c"    
-  },
-    {
-    "order": "fourth",
-    "letter" : "d"    
-  }  
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
 ]
