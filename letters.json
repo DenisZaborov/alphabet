@@ -1,18 +1,18 @@
 [
   {
     "order": "first",
-    "letter" : "a",    
+    "letter" : "a"    
   },
   {
     "order": "second",
-    "letter" : "b",    
+    "letter" : "b"    
   },
   {
     "order": "third",
-    "letter" : "c",    
+    "letter" : "c"    
   },
     {
-    "order": "fourth
-    "letter" : "d",    
+    "order": "fourth",
+    "letter" : "d"    
   }  
 ]
